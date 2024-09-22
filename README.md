@@ -1,1 +1,10 @@
-# Lab-3-1238-notes
+#Number Row Characters
+-! (Exclamation mark)
+-@ (At)
+-$ (Dollar sign)
+-% (Percentage sign)
+-^ (Circumflex)
+-& (And)
+-* (Asterisk)
+-(  (Left parenthesis)
+-)  (Right parenthesis)
