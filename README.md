@@ -20,3 +20,13 @@
 😁
 👍
 🙌
+## Keyboard shortcuts
+Shortcuts I frequently use:
+-Ctrl-C (copy)
+-Ctrl-V (paste)
+-Ctrl-X (cut)
+
+Shortcut i would like to start
+-Ctrl-Z (undo)
+-Crtl-Y (redo)
+-Ctrl-A (select all) 
