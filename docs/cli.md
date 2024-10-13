@@ -1,3 +1,4 @@
+Adding a page about CLI commands
 ls-list files in current directory
 pwd-print working directory
 cd-change directory
