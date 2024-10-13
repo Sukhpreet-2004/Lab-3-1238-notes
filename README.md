@@ -30,3 +30,5 @@ Shortcut i would like to start
 -Ctrl-Z (undo)
 -Crtl-Y (redo)
 -Ctrl-A (select all) 
+Link to the new file 
+docs/cli.md
